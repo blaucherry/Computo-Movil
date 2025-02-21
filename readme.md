@@ -8,4 +8,5 @@
 
 Actualmente, la estructura principal de carpetas es la siguiente:
 
-├── TAREAS └── README.md
+├── TAREAS 
+└── README.md
